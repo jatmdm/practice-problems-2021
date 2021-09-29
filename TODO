@@ -1,0 +1,35 @@
+Hiring
+- Send over availability for onsite interviews. 5 Dates. Interviews over 5 hours (1 hr break scheduled in.)
+- Send unofficial transcripts
+
+Coding topics to cover:
+- Sorting [ ]
+    - Refresh on Merge and Quick Sorting
+- Hash Tables [ ]
+    - Make some different types of hash Tables
+- Trees [ ]
+    - Basic tree construction [ ]
+    - Traversal and Manipulation Algorithms [ ]
+        - Maybe implementing RB-Tree? [ ]
+    - Need to know:
+        - Binary Trees [ ]
+        - n-ary Trees [ ]
+        - trie trees [ ]
+        - Breadth-First Search
+        - Depth-First Search
+        - Inorder
+        - Postorder
+        - Preorder
+- Graphs [ ]
+    - 3 basic ways to represent a graph in memory (need to be familiar with each representation and know it's pros and cons):
+        - Objects and pointers
+        - Matrix
+        - Adjacency List
+    - Know their computational complexity (Big O?)
+- Other Data structures
+    - NP-Complete Problems (be able to recognize those problems):
+        - Traveling Salesman
+        - Knapsack Problem
+- Discrete Math (Possible)
+    - n-choose-k problems
+    
