@@ -21,6 +21,18 @@ def test_bst_integer():
     inorder = bst.to_list()
     assert inorder == sorted(values)
 
+def test_bst_string():
+    seed = 372478234873
+    random.seed(seed)
+    values = [str(random.randint(0, 100)) for i in range(100)]
+
+    bst = BinarySearchTree()
+    for val in values:
+        bst.insert(val)
+
+    inorder = bst.to_list()
+    assert inorder == sorted(values)
+
 def test_bst_preorder_0():
     preorder_values = list(range(10))
     bst = BinarySearchTree()
