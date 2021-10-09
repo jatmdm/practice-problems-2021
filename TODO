@@ -10,7 +10,9 @@ Coding topics to cover:
     - Traversal and Manipulation Algorithms [ ]
         - Maybe implementing RB-Tree? [ ]
     - Need to know:
-        - Binary Trees [ ]
+        - Binary Trees []
+            - Binary Search Trees [X]
+            - Balanced Binary Search Trees [ ]
         - n-ary Trees [ ]
         - trie trees [ ]
         - Breadth-First Search
